@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://owasp-sathyabama-IST.github.io/sitemap.xml
