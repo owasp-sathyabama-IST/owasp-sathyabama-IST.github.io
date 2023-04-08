@@ -10,5 +10,30 @@
       <link>https://owasp-sathyabama-IST.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://owasp-sathyabama-IST.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Members</title>
+      <link>https://owasp-sathyabama-IST.github.io/members/</link>
+      <pubDate>Sat, 08 Apr 2023 20:03:16 +0530</pubDate>
+      
+      <guid>https://owasp-sathyabama-IST.github.io/members/</guid>
+      <description>Advisors Dr. J. Albert Mayan Associate Professor
+Dr S. Dhamodaran Dr. A. C. Santha Sheela Associate Professor
+Dr. R. Sathya Bama Krishnan Dr.B.Ankayarkanni Abisheik Magesh Application security engineer - synchrony
+Hasan Firnas Members Jones martin President
+Dhanush Ravi President
+Gabriela sharon Technical lead
+Aditya M S Amiltha Ananthika Barath.S BHARATH RAJ P hemalatha ch Devi Sri Harini Hema S Jaikrishnan Johanna Karolin Karan Aylu.p Kaaviya Shree P Keerthana Lithica Maheswaran Nandhitha Pooja R.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://owasp-sathyabama-IST.github.io/about/</link>
+      <pubDate>Sat, 08 Apr 2023 19:48:42 +0530</pubDate>
+      
+      <guid>https://owasp-sathyabama-IST.github.io/about/</guid>
+      <description>Welcome to the OWASP Sathyabama Student Chapter! We are a group of passionate students who are dedicated to promoting cybersecurity awareness and education. Our aim is to help our fellow students learn about the importance of cybersecurity and security-related issues, as well as provide a platform to enhance their skills in this field.
+As a student chapter of OWASP (Open Web Application Security Project), we are part of a global community that works towards improving the security of web applications and software.</description>
+    </item>
+    
   </channel>
 </rss>

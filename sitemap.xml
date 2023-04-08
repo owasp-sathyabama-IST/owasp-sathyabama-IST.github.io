@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://owasp-sathyabama-IST.github.io/members/</loc>
+    <lastmod>2023-04-08T20:03:16+05:30</lastmod>
+  </url><url>
+    <loc>https://owasp-sathyabama-IST.github.io/about/</loc>
+    <lastmod>2023-04-08T19:48:42+05:30</lastmod>
+  </url><url>
     <loc>https://owasp-sathyabama-IST.github.io/categories/</loc>
   </url><url>
     <loc>https://owasp-sathyabama-IST.github.io/</loc>
